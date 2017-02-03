@@ -1,9 +1,8 @@
 <?php 	
-	$tableName="";
-	$dataset="";
-	$privateFlag="";
-	$pepA="";
-	$pepB="";
+	$tablename="";
+	$Dataset="";
+	$peptideA="";
+	$peptideB="";
 	$siteA="";
 	$siteB="";
 
